@@ -13,7 +13,7 @@ namespace MvcApplication1.Controllers
 
         public string Index()
         {
-            return "it will apar as 2nd commit";
+            return "The last commit";
         }
 
     }
